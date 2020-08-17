@@ -1,4 +1,4 @@
-# Tecnical-test-Vue
+# Technical-test-Vue
 
 #Para correr el proyecto se debe tener node
 
